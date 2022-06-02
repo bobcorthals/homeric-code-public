@@ -1,5 +1,26 @@
 # Web App *Iliad*
 
+Educational Web App (React-Redux / Node) for both students and professional scholars of Homeric poetry.
+
+## Contents
+
+* [Instructions](#instructions)
+* [Detailed description](#detailed-description)
+* [Data](#data)
+* [Example WiP](#example-wip)
+* [Examples of metadata](#examples-of-metadata)
+* [Bibliography](#bibliography)
+* [Contact](#contact)
+
+### Instructions
+
+* `git clone https://github.com/bobcorthals/homeric-code-public.git`
+* open terminal and cd to folder
+* `npm install`
+* `npm start` to run locally
+
+### Detailed description
+
 The aim of this project is to create an educational Web App (React-Redux / Node) that gives both students and professional scholars of Homeric poetry easy access to the so-called "referential" quality of the poetry of the *Iliad*.<sup>1, 2<sup>
 
 Current digital tools (e.g. [Perseus DL](http://www.perseus.tufts.edu/hopper/), [TLG](http://stephanus.tlg.uci.edu/), [Chicago Homer](https://homer.library.northwestern.edu/)) allow users to browse/search Homeric (and other) texts. However, they offer users only extremely limited access (if any) to basic metadata, such as simple facts about characters (e.g. "Greek" or "Trojan", "kleiner Kämpfer" or "*promakhos*"), events, the *Iliad*'s place in the larger Trojan Cycle (*Faktenkanon*), structural patterns in the poem, Indo-European *comparanda*. So on, and so forth.
@@ -11,14 +32,6 @@ All of this is very much "WiP" (*Work in Progress*).
 <sub>1. Referential patterns denote narrative patterns that (seem to) exhibit 'traditional referentiality', defined by John Miles Foley as a deductive outgrowth of orality (1991, 6): "If traditional phraseology and narrative are conventional in structure, then they must also be conventional in their modes of generating meaning".</sub>
 
 <sub>2. A more advanced private version of this repo contains much original research, which I do not wish to share publicly as yet. Of course, any interested party is very welcome to contact me in person to learn more!<sub>
-
-## Contents
-
-* [Data](#data)
-* [Example WiP](#example-wip)
-* [Examples of metadata](#examples-of-metadata)
-* [Bibliography](#bibliography)
-* [Contact](#contact)
 
 ### Data
 
